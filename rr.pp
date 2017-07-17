@@ -1,5 +1,5 @@
-gj
 hi
-dev
 jio
 airtel
+bsnl
+idea
